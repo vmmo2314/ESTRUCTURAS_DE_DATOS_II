@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675468371 source:c:\users\vmmo\downloads\basura\auxiliar je\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\kevin\downloads\este es el bueno\main.cpp
+	<iostream>
+
+1677371860 source:c:\users\kevin\downloads\este es el bueno\src\nodo.cpp
+	"Nodo.hpp"
+
+1677371860 c:\users\kevin\downloads\este es el bueno\include\nodo.hpp
+	"Persona.hpp"
+
+1677024660 c:\users\kevin\downloads\este es el bueno\include\persona.hpp
+	<iostream>
+
+1677024671 source:c:\users\kevin\downloads\este es el bueno\src\persona.cpp
+	"Persona.hpp"
+
+1677405430 source:d:\este es el bueno\este es el bueno\main.cpp
+	<iostream>
+	"MenuPrincipal.hpp"
+
+1677024672 source:d:\este es el bueno\este es el bueno\persona.cpp
+	"Persona.hpp"
+
+1677024662 d:\este es el bueno\este es el bueno\persona.hpp
+	<iostream>
+
+1677433516 source:d:\este es el bueno\este es el bueno\nodo.cpp
+	"Nodo.hpp"
+
+1677403156 d:\este es el bueno\este es el bueno\nodo.hpp
+	"Persona.hpp"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1677453262 source:d:\este es el bueno\este es el bueno\arbol.cpp
+	"ARBOL.hpp"
+
+1677453036 d:\este es el bueno\este es el bueno\arbol.hpp
+	"Nodo.hpp"
+
+1677404798 d:\este es el bueno\este es el bueno\menuprincipal.hpp
+	"Nodo.hpp"
+	"ARBOL.hpp"
+	"Persona.hpp"
+
+1677453256 source:d:\este es el bueno\este es el bueno\menuprincipal.cpp
+	"MenuPrincipal.hpp"
+
+1677405430 source:g:\este es el bueno\este es el bueno\main.cpp
+	<iostream>
+	"MenuPrincipal.hpp"
+
+1677404798 g:\este es el bueno\este es el bueno\menuprincipal.hpp
+	"Nodo.hpp"
+	"ARBOL.hpp"
+	"Persona.hpp"
+
+1677457264 g:\este es el bueno\este es el bueno\nodo.hpp
+	"Persona.hpp"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1677457264 g:\este es el bueno\este es el bueno\persona.hpp
+	<iostream>
+
+1677466872 g:\este es el bueno\este es el bueno\arbol.hpp
+	"Nodo.hpp"
+
+1677636148 source:g:\este es el bueno\este es el bueno\menuprincipal.cpp
+	"MenuPrincipal.hpp"
+
+1677457264 source:g:\este es el bueno\este es el bueno\persona.cpp
+	"Persona.hpp"
+
+1677457264 source:g:\este es el bueno\este es el bueno\nodo.cpp
+	"Nodo.hpp"
+
+1677512568 source:g:\este es el bueno\este es el bueno\arbol.cpp
+	"ARBOL.hpp"
+
+1678049302 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\este es el bueno\main.cpp
+	<iostream>
+	"MenuPrincipal.hpp"
+
+1678049302 c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\este es el bueno\menuprincipal.hpp
+	"Nodo.hpp"
+	"ARBOL.hpp"
+	"Persona.hpp"
+
+1678049302 c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\este es el bueno\nodo.hpp
+	"Persona.hpp"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1678049302 c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\este es el bueno\persona.hpp
+	<iostream>
+
+1678049302 c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\este es el bueno\arbol.hpp
+	"Nodo.hpp"
+
+1678050035 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\este es el bueno\arbol.cpp
+	"ARBOL.hpp"
+
+1678049302 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\este es el bueno\nodo.cpp
+	"Nodo.hpp"
+
+1678049302 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\este es el bueno\persona.cpp
+	"Persona.hpp"
+
+1678050198 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\este es el bueno\menuprincipal.cpp
+	"MenuPrincipal.hpp"
+
+1678051041 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\prog02-ramirez_gomez_kevin_ramses\este es el bueno\main.cpp
+	<iostream>
+	"MenuPrincipal.hpp"
+
+1678051041 c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\prog02-ramirez_gomez_kevin_ramses\este es el bueno\menuprincipal.hpp
+	"Nodo.hpp"
+	"ARBOL.hpp"
+	"Persona.hpp"
+
+1678051041 c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\prog02-ramirez_gomez_kevin_ramses\este es el bueno\nodo.hpp
+	"Persona.hpp"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1678051041 c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\prog02-ramirez_gomez_kevin_ramses\este es el bueno\persona.hpp
+	<iostream>
+
+1678051041 c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\prog02-ramirez_gomez_kevin_ramses\este es el bueno\arbol.hpp
+	"Nodo.hpp"
+
+1678053137 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\prog02-ramirez_gomez_kevin_ramses\este es el bueno\arbol.cpp
+	"ARBOL.hpp"
+
+1678052393 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\prog02-ramirez_gomez_kevin_ramses\este es el bueno\menuprincipal.cpp
+	"MenuPrincipal.hpp"
+
+1678051041 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\prog02-ramirez_gomez_kevin_ramses\este es el bueno\nodo.cpp
+	"Nodo.hpp"
+
+1678051041 source:c:\users\kevin\desktop\prog02-ramirez_gomez_kevin_ramses\prog02-ramirez_gomez_kevin_ramses\este es el bueno\persona.cpp
+	"Persona.hpp"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1676250099 source:c:\users\vmmo2\onedrive\documentos\victor\noe\j_archivos\main.cpp
+	<iostream>
+	"archivos.hpp"
+	"calculadora.hpp"
+	"menu.hpp"
+
+1676250411 source:c:\users\vmmo2\onedrive\documentos\victor\noe\j_archivos\menu.cpp
+	"menu.hpp"
+
+1676250358 c:\users\vmmo2\onedrive\documentos\victor\noe\j_archivos\menu.hpp
+	<iostream>
+	"calculadora.hpp"
+	"archivos.hpp"
+
+1676250498 source:c:\users\vmmo2\onedrive\documentos\victor\noe\j_archivos\calculadora.cpp
+	"calculadora.hpp"
+
+1676250484 c:\users\vmmo2\onedrive\documentos\victor\noe\j_archivos\calculadora.hpp
+	<iostream>
+	"archivos.hpp"
+
+1676253061 source:c:\users\vmmo2\onedrive\documentos\victor\noe\j_archivos\archivos.cpp
+	<string>
+	"archivos.hpp"
+	"calculadora.hpp"
+
+1676252466 c:\users\vmmo2\onedrive\documentos\victor\noe\j_archivos\archivos.hpp
+	<iostream>
+	<fstream>
+	<string>
+

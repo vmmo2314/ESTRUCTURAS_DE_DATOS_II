@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1679171011 source:c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\arista.cpp
+	"Arista.h"
+
+1679171011 c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\arista.h
+	<iostream>
+
+1679184774 source:c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\grafodinamico.cpp
+	<iostream>
+	"Grafo.h"
+	"alumno.hpp"
+
+1679184767 c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\grafo.h
+	"Vertice.h"
+	"Arista.h"
+	"alumno.hpp"
+
+1679178112 c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\vertice.h
+	"alumno.hpp"
+	<iostream>
+
+1584205420 source:c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\main.cpp
+	<iostream>
+
+1679178090 source:c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\vertice.cpp
+	"Vertice.h"
+
+1679184767 source:c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\grafo.cpp
+	"Grafo.h"
+	<fstream>
+
+1677629452 source:c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\alumno.cpp
+	"alumno.hpp"
+
+1677628973 c:\users\vmmo2\onedrive\documentos\victor\noe\grafo_vmmo\alumno.hpp
+	<iostream>
+	<string>
+
